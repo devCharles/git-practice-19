@@ -1,4 +1,7 @@
 # 19JS
 
 1. Charles Silva @DevCharles
-2. Abraham Covarrubias @abyblackmouth
+2. Cris Gonzalez @CrisClient
+3. Marco Rosales @MRosales0390
+4. Abraham Covarrubias @abyblackmouth
+
