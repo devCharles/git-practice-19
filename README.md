@@ -2,4 +2,5 @@
 
 1. Charles Silva @DevCharles
 2. Cris Gonzalez @CrisClient
-3. Victor Reyes @fiveandroid
+3. Marco Rosales @MRosales0390
+4. Victor Reyes @fiveandroid
