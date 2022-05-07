@@ -10,4 +10,5 @@
 
 5. Ben Alvarado @DevBenAC
 6. Ernesto García @ErnestoGarSa
-7. Lenny Cocom @LennyPedraza
+7. Abraham Covarrubias @abyblackmouth
+8. Lenny Cocom @LennyPedraza
